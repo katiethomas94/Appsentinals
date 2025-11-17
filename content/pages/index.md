@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: AppSentinels
+        url: 'https://appsentinels.ai'
         showIcon: false
         icon: arrowRight
         iconPosition: right
