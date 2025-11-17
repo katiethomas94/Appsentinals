@@ -58,7 +58,7 @@ sections:
       and gain visibility into application workflows and user journeys.
     actions:
       - label: Get started
-        url: /
+        url: 'https://appsentinels.ai/blog/business-logic-security'
         icon: arrowRight
         iconPosition: right
         style: secondary
