@@ -70,9 +70,6 @@ sections:
         iconPosition: right
         style: primary
         type: Link
-    media:
-      altText: Dope design preview
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
