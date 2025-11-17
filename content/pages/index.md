@@ -7,7 +7,7 @@ sections:
       text: API Security Platform
       color: text-dark
       type: TitleBlock
-    subtitle: AppSentinels
+    subtitle: ''
     text: >
       AppSentinels is a comprehensive full life-cycle [API Security
       platform](https://appsentinels.ai). We help build secure APIs and protect
