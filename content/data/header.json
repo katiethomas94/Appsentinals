@@ -1,19 +1,20 @@
 {
-    "logo": {
-        "url": "/images/cropped-favicon-1.png",
-        "altText": "Logo ",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "https://appsentinels.ai",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "AppSentinels"
 }
