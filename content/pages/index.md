@@ -50,7 +50,7 @@ sections:
       text: Business Logic Security
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       AppSentinels is a full-lifecycle API security platform designed to protect
       modern applications from business logic attacks. With rapid deployment and
