@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/cropped-favicon-1.png",
-        "altText": "Logo ",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "type": "Button",
