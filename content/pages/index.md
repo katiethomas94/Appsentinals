@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      AppSentinels is a comprehensive full life-cycle API Security platform. We
+      help build secure APIs and protect applications against business logic API
+      attacks. The platform is deployed quickly, providing immediate API
+      security and protection. The platform offers deep insights into
+      application behavior, user journeys, and business logic workflows.
     actions:
       - label: Get started
         altText: ''
