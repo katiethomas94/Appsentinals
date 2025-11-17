@@ -52,8 +52,10 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      AppSentinels is a full-lifecycle API security platform designed to protect
+      modern applications from business logic attacks. With rapid deployment and
+      deep behavioral insights, it empowers organizations to build secure APIs
+      and gain visibility into application workflows and user journeys.
     actions:
       - label: Get started
         url: /
